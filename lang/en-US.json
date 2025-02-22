@@ -1,0 +1,23 @@
+{
+	"languageTag": "en-US",
+	"fileDescription": "Strings for Globals.",
+	"text": {
+		"plugins": {
+			"globals": {
+				"name": "Globals",
+				"description": "Just an empty plugin to handle global variables.",
+				"help-url": "http://neexeen.com/",
+				"properties": {
+				},
+				"aceCategories": {
+				},
+				"conditions": {
+				},
+				"actions": {
+				},
+				"expressions": {
+				}
+			}
+		}
+	}
+}
